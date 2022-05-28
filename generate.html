@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Password Strength Checker</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="favicon_io/site.webmanifest">
+</head>
+<body>
+    <div class="topnav">
+        <a href="https://github.com/fadhlanhrts">
+            <img id="github" src="assets/github.png" alt="Muhammad Fadhlan Harits" style="width:40px;height:40px;">
+        </a>
+    
+        <a class="active" href="generate.html">Generate Password</a>
+        <a href="password.html">Password Strength</a>
+       
+        <a href="index.html">Home</a>
+      </div>
+    <h1 class="welcome-text" style="margin-top: -1%; font-weight: lighter;"> Welcome to Strong Password Generator</h1>
+    <div class="generate-page" style="margin-bottom: -1%; text-align: center;">
+        
+        <h3 class="regular-text" style="font-weight: lighter;">Click generate to generate a password</h3>
+        <br>
+       
+        <br>
+        <button class="button" type="submit" id="generate-form" onclick="generatePass()" style="padding: 20px 100px;">Generate</button>
+    
+
+       
+    </div>
+    <div class="generate-result">
+        <p id="generate-text">
+        </p>
+        <h2 id="generate-calc" style="font-size: 160%;">
+
+        </h2>
+    </div>
+     
+    <footer>
+        <p class="copyright">
+             &copy; Copyright 2022 Kafein Hitam
+        </p>
+       
+    </footer>
+    <script src="main.js"></script>
+</body>
+
+</html>
