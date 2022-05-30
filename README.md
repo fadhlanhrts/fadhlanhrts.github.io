@@ -3,6 +3,7 @@
 This project is a web app platform that aims to improve personal security in the cyberspace, currently it only has 2 main features: checking for password strength and generating a strong password for the user 
 
 -------
+<h2 align="center">Landing Page</h2>
 ## Landing Page
 
 ![image](https://user-images.githubusercontent.com/53087572/170997997-2ff71d74-a900-482a-a969-93781378b910.png)
