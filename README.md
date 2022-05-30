@@ -2,8 +2,9 @@
 
 This project is a web app platform that aims to improve personal security in the cyberspace, currently it only has 2 main features: checking for password strength and generating a strong password for the user 
 
-[Landing](#Landing-Page)
-[Password-Strength](#Password-Strength-Checker)
+- [Landing Page](#Landing-Page)
+- [Password Strength Checker](#Password-Strength-Checker)
+- [Password Generator](#Password-Generator)
 
 -------
 <h2 align="center">Landing Page</h2>
