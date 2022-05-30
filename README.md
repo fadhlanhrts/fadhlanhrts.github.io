@@ -1,4 +1,4 @@
-<p align="right">All in One Security</p>
+<h1 align="center">All in One Security</h1>
 # All in One Security
 
 This project is a web app platform that aims to improve personal security in the cyberspace, currently it only has 2 main features: checking for password strength and generating a strong password for the user 
