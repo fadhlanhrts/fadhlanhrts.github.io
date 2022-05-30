@@ -4,7 +4,6 @@ This project is a web app platform that aims to improve personal security in the
 
 -------
 <h2 align="center">Landing Page</h2>
-## Landing Page
 
 ![image](https://user-images.githubusercontent.com/53087572/170997997-2ff71d74-a900-482a-a969-93781378b910.png)
 
@@ -12,16 +11,17 @@ The landing page provides two main categories for accessing the two main feature
 an additional navigation menu is also provided at the top right side. The navigation menu can be used for switching
 between the landing page and the two pages for accessing the features.
 
-## Password Strength Checker
-### Default view 
+<h2 align="center">Password Strength Checker</h2>
+
+<h3 align="center">Default view</h3>
+
 ![image](https://user-images.githubusercontent.com/53087572/170998558-00745f6c-d0f3-45b4-ab0e-50bb7b317dae.png)
 
 A text field will be prompted when the user enters the password strength page, users can then utilize 
 the text field to check whether a password is strong or weak based on the password entropy 
 calculation provided at https://www.omnicalculator.com/other/password-entropy
 
-### Entering a password text
-
+<h3 align="center">Entering a password text</h3>
 
 Weak Password
 ![image](https://user-images.githubusercontent.com/53087572/170998989-f96a91e4-d108-4546-8036-c1ee275aa680.png)
