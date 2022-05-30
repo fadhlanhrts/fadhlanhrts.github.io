@@ -33,3 +33,18 @@ The two examples above shows when a user enters a weak password that only consis
 alphabet characters at the first image and a strong password that consists of multiple combinations 
 of lowercase, uppercase, numbers, and special characters
 
+<h2 align="center">Password Generator</h2>
+
+<h3 align="center">Default view</h3>
+
+![image](https://user-images.githubusercontent.com/53087572/171001319-d7b11239-aab2-4d3a-8357-81ac3337be4e.png)
+
+A button will be prompted when users enter the password generator page, the generate button can be used 
+to display a random string that consists of a good password combination for the user
+
+<h3 align="center">Generating a password </h3>
+
+![image](https://user-images.githubusercontent.com/53087572/171001717-4f1a32d7-5a83-400f-b9a8-4f517fe5a37d.png)
+
+![image](https://user-images.githubusercontent.com/53087572/171001784-46eca2da-0600-49cd-a99f-448f1e166d7f.png)
+
