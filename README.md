@@ -1,6 +1,6 @@
 <h1 align="center">All in One Security</h1>
 <h2 align="center">
-  <a href="https://fadhlanhrts.github.io/">
+  <a href="https://fadhlanhrts.github.io/" target="_blank" rel="noopener noreferrer">
     <b>fadhlanhrts.github.io</b>
   </a>
 </h2>
