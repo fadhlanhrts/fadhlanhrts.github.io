@@ -1,4 +1,5 @@
 <h1 align="center">All in One Security</h1>
+<a align="center" href="https://fadhlanhrts.github.io/"><b>fadhlanhrts.github.io/</b></a>
 
 This project is a web app platform that aims to improve personal security in the cyberspace, currently it only has 2 main features: checking for password strength and generating a strong password for the user 
 
