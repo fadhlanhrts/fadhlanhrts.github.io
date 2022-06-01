@@ -224,3 +224,11 @@ p.copyright {
 .generate-result {
   text-align: center;
 }
+
+#shield {
+  cursor: pointer;
+}
+
+#hammer {
+  cursor: pointer;
+}
