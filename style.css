@@ -147,7 +147,7 @@ cursor: pointer;
   .column {
     width: 70%;
     display: block;
-    margin: 10px 0px 50px 3px;
+    margin: 10px 50px 50px -10px;
     padding: 10px -20px 1px -10%;
   }
 
@@ -168,15 +168,15 @@ cursor: pointer;
 /* Responsive columns */
 @media screen and (max-width: 700px) {
   .welcome-text {
-    margin-right: 10px;
-    margin-left: 40px;
+    margin-right: 40px;
+    margin-left: 50px;
   }
   .column {
     width: 80%;
     display: block;
 
     /*margin: 10px 0px 20px 0px; */
-    margin: 10px 0px 50px -40px;
+    margin: 10px 0px 50px -70px;
     padding: 10px -20px 1px -10%;
   }
 
@@ -193,8 +193,8 @@ cursor: pointer;
   .topnav.responsive {position: relative;}
   .topnav.responsive a.icon {
     position: absolute;
-    right: 0;
-    top: 1;
+    right: 15px;
+    top: 0;
   }
   .topnav.responsive a {
     float: none;
